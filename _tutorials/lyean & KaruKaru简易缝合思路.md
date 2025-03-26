@@ -1,5 +1,5 @@
 ---
-title: lyean & KaruKaru简易缝合思路.md
+title: lyean & KaruKaru简易缝合思路
 date: 2025-03-26
 layout: post
 ---
