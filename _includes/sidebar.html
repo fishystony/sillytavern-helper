@@ -1,0 +1,17 @@
+<div class="sidebar">
+  <ul class="collections">
+    {% for collection in site.ordered_collections %}
+      <li class="collection">
+        <h3>{{ collection | capitalize }}</h3>
+        <ul>
+          {% assign collection_items = site.collections[collection] %}
+          {% for item in collection_items %}
+            <li>
+              <a href="{{ item.url }}">{{ item.title }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
