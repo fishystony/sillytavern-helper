@@ -12,7 +12,7 @@ layout: post
 {: .block-warning }
 
 - 使用预设版本：lyean3.18门之主/V2.8.9_GAL_KaruKaru_noass
-- 适用模型:Claude 3.5/3.7
+- 适用模型: Claude 3.5/3.7
 - 适用渠道：官pro（今天开始官pro把输出砍到4000token左右了，用这个缝合预设输出很容易超token截断，暂时不建议玩，如果还是想用的话可以把多余的选项关掉，或者打开能消除思维链的正则）、贩子，公益应该也能跑
 
 ## 可缝合的KaruKaru提示词
@@ -34,7 +34,7 @@ layout: post
 /\[\/?time-stamp\]/g
 ```
 - **角色视角隔离 & 多视角隔离（推荐）：** 大概就是会细化ai从不同的角度进行描写，多视角隔离可以从多角色的角度描写，跑多人卡开char第一人称的时候非常好玩！**需要开12号正则过滤**
--** 对话风格优化：** 防止类似“ta说……”的描写重复出现
+- ** 对话风格优化：** 防止类似“ta说……”的描写重复出现
 - **额外事件：** 可以辅助推剧情
 - **揭示真实想法：** 斜体心理
 - **颗粒度提升：** 优化文风，适用ly旧版
@@ -44,8 +44,10 @@ layout: post
 
 ## 缝合位置参考
 1. 前文
-![image](https://github.com/fishystony/sillytavern-helper/blob/main/image/Pasted%20image%2020250326170652.png)
+![image](https://raw.githubusercontent.com/fishystony/sillytavern-helper/main/image/Pasted%20image%2020250326170652.png)
 2. 正文规范（颗粒度提升、表达大师也是放在这个地方）
-![image](https://github.com/fishystony/sillytavern-helper/blob/main/image/Pasted%20image%2020250326170723.png)
+![image](https://raw.githubusercontent.com/fishystony/sillytavern-helper/main/image/Pasted%20image%2020250326170723.png)
 3. 结尾
-![image](https://github.com/fishystony/sillytavern-helper/blob/main/image/Pasted%20image%2020250326171056.png)
+![image](https://raw.githubusercontent.com/fishystony/sillytavern-helper/main/image/Pasted%20image%2020250326171056.png)
+
+
