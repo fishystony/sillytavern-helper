@@ -4,11 +4,6 @@ longtitle:        Fishy的酒馆小助手
 
 remote_theme:     sighingnow/jekyll-gitbook
 
-# Copyright
-author: Fishy
-copyright_year: 2025
-copyright_name: Fishy
-
 toc:
     enabled: true
     h_min: 1
