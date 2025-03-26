@@ -17,6 +17,8 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+favicon_path:  Fish.svg
+
 plugins:
   - jekyll-feed
   - jekyll-readme-index
