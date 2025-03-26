@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 食用指南
+title: 🍨食用指南
 permalink: /
 ---
 
