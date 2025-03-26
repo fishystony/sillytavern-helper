@@ -9,6 +9,14 @@ toc:
     h_min: 1
     h_max: 3
 
+collections:
+  tutorials:
+    output: true
+    permalink: /:collection/:path/
+  tools:
+    output: true
+    permalink: /:collection/:path/
+
 plugins:
   - jekyll-feed
   - jekyll-readme-index
