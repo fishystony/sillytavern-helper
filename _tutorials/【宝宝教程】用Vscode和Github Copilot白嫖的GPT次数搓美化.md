@@ -1,5 +1,5 @@
 ---
-title: 【宝宝教程】用Vscode和Github Copilot白嫖的GPT次数搓美化
+title: 用Vscode和Github Copilot白嫖的GPT次数搓美化
 date: 2025-03-26
 layout: post
 ---
