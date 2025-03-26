@@ -16,11 +16,15 @@ layout: post
 - 适用渠道：官pro（今天开始官pro把输出砍到4000token左右了，用这个缝合预设输出很容易超token截断，暂时不建议玩，如果还是想用的话可以把多余的选项关掉，或者打开能消除思维链的正则）、贩子，公益应该也能跑
 
 ## 可缝合的KaruKaru提示词
+
+> #### Tips:
+> 
 >- 因为KaruKaru内容很多很长，所以只能麻烦宝宝们按照名字下滑自己找了
 >- 以下的内容都不是必选，因为主要是起到提升文笔以及部分优化ai思考的功能，大家可以自己试用后看看效果然后再选择自己比较喜欢的提示词缝合
 >- ly3.18开启“随机文学素材”“文学化”“推理抗过拟合”后的文风已经很不错了，因此3.18可以减少文风相关的提示词缝合省token
 >- 部分提示词需要开启KaruKaru的正则移除多余的格式，建议把所有正则都下载安装
 >- 提示词中如果存在“Oblivionis”，需要手动替换成“Yog-Sothoth”
+{: .block-tip }
 
 - **动态角色记忆：** 在前文会输出回忆一下角色关系以及外貌描写，可以结合表格插件使用
 - **独立认知过滤（推荐）：** 防ai读user想法，**需要开启17号正则过滤**
@@ -40,8 +44,8 @@ layout: post
 
 ## 缝合位置参考
 1. 前文
-
+![image](https://github.com/fishystony/sillytavern-helper/blob/main/image/Pasted%20image%2020250326170652.png)
 2. 正文规范（颗粒度提升、表达大师也是放在这个地方）
-
+![image](https://github.com/fishystony/sillytavern-helper/blob/main/image/Pasted%20image%2020250326170723.png)
 3. 结尾
-
+![image](https://github.com/fishystony/sillytavern-helper/blob/main/image/Pasted%20image%2020250326171056.png)
