@@ -16,6 +16,14 @@ collections:
   tools:
     output: true
     permalink: /:collection/:path/
+  css:
+    output: true
+    permalink: /:collection/:path/
+
+ordered_collections:
+  - tutorials
+  - css
+  - tools
 
 favicon_path:  Fish.svg
 
